@@ -1,0 +1,17 @@
+*.o
+*.exe
+*.cbp
+*.depend
+*.layout
+*.exe
+*.bat
+*.rar
+build/
+.vscode
+.xmake
+.VSCodeCounter/
+.env
+*.code-workspace
+*.tiled-session
+Testing
+*.pem
